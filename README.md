@@ -28,13 +28,19 @@ EventBuddy is an event management platform designed to simplify the organization
 ![Budget Overview](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.58%20PM%20%281%29.jpeg)
 
 ### Participant Chatroom
-![Participant Chatroom](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.57%20PM.jpeg)
+![Participant Chatroom](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.26.31%20PM.jpeg)
 
 ### Task Assignment
-![Task Assignment](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.56%20PM.jpeg)
+![Task Assignment](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.59%20PM.jpeg)
 
 ### Vendor Ratings
 ![Vendor Ratings](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.59%20PM%20%281%29.jpeg)
+
+### Assigned Tasks
+![Assigned Task](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.19.12%20PM.jpeg)
+
+### Calender Integration
+![Calender](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.23.20%20PM.jpeg)
 
 ## Installation
 
