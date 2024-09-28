@@ -13,28 +13,28 @@ EventBuddy is an event management platform designed to simplify the organization
 ## Screenshots
 
 ### Event Dashboard
-![Event Dashboard](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/1SB19pF3WKqkcIlE3QzKRpy3Xdfgp0vPu.png)
+![Event Dashboard](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.59%20PM.jpeg)
 
 ### Task Overview
-![Task Overview](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/1gl4hoIcAp1fRovca_sP5Gup_-RH0oHun.png)
+![Task Overview](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.58%20PM.jpeg)
 
 ### Vendor Management
-![Vendor Management](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/1tWzxPg_sfzwjygy3NSz61LaA76URYHpQ.png)
+![Vendor Management](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.56%20PM%20(2).jpeg)
 
 ### Event Creation Form
-![Event Creation](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/1738ERsHmxXhGKUzXE5ID4Q3qgAScFUe.png)
+![Event Creation](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.57%20PM%20(1).jpeg)
 
 ### Budget Overview
-![Budget Overview](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/16YZpA3DKoKHic5taME-lm70H7YBbhwsc.png)
+![Budget Overview](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.58%20PM%20(1).jpeg)
 
 ### Participant Chatroom
-![Participant Chatroom](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/1PiJYYKoWQGDRIn49nJmhyOBd6oc8abAC.png)
+![Participant Chatroom](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.57%20PM.jpeg)
 
 ### Task Assignment
-![Task Assignment](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/1cQgyN7emUozwV25h7pxHTn1iXlQIMYoO.png)
+![Task Assignment](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.56%20PM.jpeg)
 
 ### Vendor Ratings
-![Vendor Ratings](https://raw.githubusercontent.com/VipulMore11/HackDeck_KD_eventbuddy/main/Images/1TrBtNT3QeoTvAXndPZt0-95cGBPAahmD.png)
+![Vendor Ratings](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.59%20PM%20(1).jpeg)
 
 ## Installation
 
