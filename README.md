@@ -62,7 +62,7 @@ To set up this project locally:
    cd HackDeck_KD_eventbuddy
    ```
 
-3. Install the required dependencies:
+3. Install the required dependencies for the backend:
    ```bash
    pip install -r requirements.txt
    ```
@@ -72,12 +72,31 @@ To set up this project locally:
    python manage.py migrate
    ```
 
-5. Run the development server:
+5. Run the backend development server:
    ```bash
    python manage.py runserver
    ```
 
-6. Open your web browser and visit `http://127.0.0.1:8000` to start using EventBuddy.
+6. Open your web browser and visit `http://127.0.0.1:8000` to access the backend API.
+
+## Frontend Setup
+
+1. Navigate to the frontend directory (assuming it’s a separate directory within the repository):
+   ```bash
+   cd frontend
+   ```
+
+2. Install the required dependencies for the frontend:
+   ```bash
+   npm install
+   ```
+
+3. Start the frontend development server:
+   ```bash
+   npm start
+   ```
+
+4. Open your web browser and visit `http://localhost:3000` to access the EventBuddy frontend.
 
 ## Usage
 
@@ -89,10 +108,10 @@ To set up this project locally:
 
 ## API Endpoints
 
-- `/events/` - Retrieve, create, and manage events.
-- `/tasks/` - Manage tasks associated with an event.
-- `/vendors/` - View and manage vendors for an event.
-- `/participants/` - Manage participants for a specific event.
+- `/api/events/` - Retrieve, create, and manage events.
+- `/api/tasks/` - Manage tasks associated with an event.
+- `/api/vendors/` - View and manage vendors for an event.
+- `/api/participants/` - Manage participants for a specific event.
 
 ## Contributing
 
