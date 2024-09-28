@@ -34,7 +34,7 @@ EventBuddy is an event management platform designed to simplify the organization
 ![Tasks](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.34.55%20PM.jpeg)
 
 ### Vendor Ratings
-![Vendor Ratings](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.13.59%20PM%20%281%29.jpeg)
+![Vendor Ratings](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.19.30%20PM.jpeg)
 
 ### Assigned Tasks
 ![Assigned Task](https://github.com/VipulMore11/HackDeck_KD_eventbuddy/blob/main/Images/WhatsApp%20Image%202024-09-28%20at%202.19.12%20PM.jpeg)
